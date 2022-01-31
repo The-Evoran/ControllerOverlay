@@ -7,6 +7,13 @@
         margin-top: -285px;*/
 }
 
+.xbox .button {
+    position: absolute;
+    background: url(abxymod.png);
+    width: 48px;
+    height: 48px;
+}
+
 .xbox .trigger {
     width: 88px;
     height: 121px;
